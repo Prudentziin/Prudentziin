@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou @Prudentziin
+- 🌱 Atualmente estou aprendendo Python e C#
+- 🎮 Gosto de criar protótipos de jogos
